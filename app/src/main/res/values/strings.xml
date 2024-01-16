@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Pégase</string>
+    <string name="title">Entrée dans le gang :</string>
+    <string name="supporting_text">(Aucun retour en arrière possible)</string>
+    <string name="cancel">Annuler</string>
+    <string name="decline">Une autre fois peut-être</string>
+    <string name="accept">Ouiii</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="bienvenue_dans_n_le_gang_des_licornes">Bienvenue dans \n Le gang des Licornes</string>
+    <string name="start">Start</string>
+    <string name="non">Ho noooon !!!!!!!!!</string>
+    <string name="c_est_parti">C\'est parti !</string>
+    <string name="connexion">Connexion à %1$s</string>
+    <string name="item">Item %1$s</string>
+    <string name="item_1">Item 1</string>
+    <string name="item_2">Item 2</string>
+    <string name="scan_ended">scan_ended</string>
+    <string name="demande_permission">Demande Permission</string>
+    <string name="Texte_accès_paramètres">Vous avez refusé les permissions pour le snan bluetooth. Merci d\'aller dans les paramètres du téléphone afin de les autorisées</string>
+    <string name="annuler">Annuler</string>
+    <string name="ouvrir_les_param">Ouvrir les paramètres</string>
+    <string name="not_compatible">incompatible</string>
+    <string name="uuid_not_found">uuid not found</string>
+    <string name="not_connected">Not connected</string>
+    <string name="enable_ble_notifications">enable ble notifications</string>
+    <string name="bluetooth_non_activ">Bluetooth non activé</string>
+    <string name="connexion_en_cours">Connexion en cours … %1$s</string>
+    <string name="relancer_le_scan">Relancer le scan</string>
+    <string name="allumer_la_corne_magique">Allumer la Corne Magique</string>
+    <string name="arr_ter_le_fun">Arrêter le fun..</string>
+    <string name="adresse">adresse</string>
+    <string name="aucun_p_riph_rique_d_tect">Aucun périphérique détecté</string>
+</resources>
